@@ -1,17 +1,38 @@
-# myapp
+# 🍽️ Full Tummy
 
-A new Flutter project.
+**Full Tummy** is a food redistribution app built using Flutter, aimed at reducing food waste and helping the community. It connects restaurants, NGOs/shelters, and delivery partners to ensure excess food reaches those in need.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Registration/Login**
+  - Sign up as a **Restaurant**, **NGO/Shelter**, or **Delivery Partner**
+  - Supports multiple sign-in options (including Google Sign-In)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🍛 **For Restaurants**
+  - Add food donations with details like type, quantity, expiry time, and pickup time
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Full-tummy
+- 🧡 **For NGOs/Shelters**
+  - Browse and claim available food listed by restaurants
+
+- 🛵 **For Delivery Partners**
+  - View and accept delivery tasks for transporting donated food
+
+- ✨ Smooth onboarding experience with a splash animation  
+- 🎨 Interactive UI with a bright **orange and white** theme
+
+---
+
+## 📱 Tech Stack
+
+- **Flutter** (Frontend + Logic)
+- **Firebase** (Authentication, Database, and Storage)
+- **Google Maps API** (optional for delivery tracking)
+- **GitHub** (Version control)
+
+---
+
+## 📦 APK
+
+You can find the generated APK file inside the path:  
